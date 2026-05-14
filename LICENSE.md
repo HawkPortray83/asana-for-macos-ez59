@@ -1,4 +1,4 @@
-#  
+#  Enhance Asana for macOS with new Automation for Asana for macOS - auto-sync and offline access, the #1 automation. Includes auto-sync and offline access for a smoother experience.
 
 
 
